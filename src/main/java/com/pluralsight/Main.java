@@ -24,7 +24,6 @@ public class Main {
 //     Big thanks to Remsey for making Java way less scary, way more fun and understanable i will be taking these skill with me throughout my journey. - Freddie Finesse
 //     Thank you for all your support through out the academy, you truly are a great instructor and very much appreciated keep being great 💪🏾🐐‼️ -Jakari
 //     It has been a pleasure and a privilege to learn from you Remsey. You have my utmost respect and gratitude. -Jakeyl
-//     Thank you for being the kind of instructor who made us feel smart even when our code didn’t work and Postman gave us more errors than answers 😄- Abdulkadir Yanar
 
 
 /* public class ThankYouRemsey {
