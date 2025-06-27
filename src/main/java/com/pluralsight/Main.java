@@ -25,6 +25,8 @@ public class Main {
 //     Thank you for all your support through out the academy, you truly are a great instructor and very much appreciated keep being great 💪🏾🐐‼️ -Jakari
 //     It has been a pleasure and a privilege to learn from you Remsey. You have my utmost respect and gratitude. -Jakeyl
 //     Thank you for being an amazing instructor, Remsey! This class has truly helped me grow as a developer and I appreciate all the support you've given us.🙏 -Emiliya
+//     Thank you for being the kind of instructor who made us feel smart even when our code didn’t work and Postman gave us more errors than answers 😄
+
 
 }
 
