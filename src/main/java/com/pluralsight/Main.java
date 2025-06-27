@@ -29,6 +29,6 @@ public class Main {
 
 /* public class ThankYouRemsey {
     public static void main(String[] args) {
-        System.out.println("If you're reading this... you’ve officially been Java-fied by Remsey!");
+        System.out.println("If you're reading this...... You have become a Java master with Remsey!");
     }
 } */
