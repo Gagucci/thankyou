@@ -15,5 +15,5 @@ public class Main {
     // Thank you for everything, Remgoku.   -Marq Alejandro
     // 🎉🎉Thank you for sharing your wisdom with us. Your the best🎉🎉- Cricelia
     //Thanks for all your support, Remsey!! We truly appreciate you and will miss you! But see you on LinkedIn hehe 😆🥺 - Claudia!
-
+    //It was truly an honor learning from you, Remsey. I have great respect and appreciation for the work you did to make class engaging and educational. - Jonathan Yun
 }
