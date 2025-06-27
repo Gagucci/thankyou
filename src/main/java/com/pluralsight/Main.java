@@ -21,13 +21,13 @@ public class Main {
     // 🎉🎉Thank you for sharing your wisdom with us. Your the best🎉🎉- Cricelia
     // Thanks for all your support, Remsey!! We truly appreciate you and will miss you! But see you on LinkedIn hehe 😆🥺 - Claudia!
     // It was truly an honor learning from you, Remsey. I have great respect and appreciation for the work you did to make class engaging and educational. - Jonathan Yun
-    // Big thanks to Remsy for making Java way less scary, way more fun, and helping us actually understand how to code. - Freddie Finesse
+    // Big thanks to Remsey for making Java way less scary, way more fun and understanable i will be taking these skill with me throughout my journey. - Freddie Finesse
 
 }
 
 
-/* public class ThankYouRemsy {
+/* public class ThankYouRemsey {
     public static void main(String[] args) {
-        System.out.println("If you're reading this... you’ve officially been Java-fied by Remsy!");
+        System.out.println("If you're reading this... you’ve officially been Java-fied by Remsey!");
     }
 } */
