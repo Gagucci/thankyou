@@ -19,7 +19,7 @@ public class Main {
 //     System.out.println("THANK YOU FOR BEING THE BEST INSTRUCTOR!!! 🐐🐐🐐 -Jacob")
 //     Thank you for everything, Remgoku.   -Marq Alejandro
 //     🎉🎉Thank you for sharing your wisdom with us. Your the best🎉🎉- Cricelia
-//     Thanks for all your support, Remsey!! We truly appreciate you and will miss you! But see you on LinkedIn hehe 😆🥺 - Claudia!
+//     Thanks for all your support, Remsey!! We truly appreciate you and will miss you! But see you on LinkedIn hehe 😆🥺 - Claudia Trejo Hernandez!
 //     It was truly an honor learning from you, Remsey. I have great respect and appreciation for the work you did to make class engaging and educational. - Jonathan Yun
 //     Big thanks to Remsey for making Java way less scary, way more fun and understanable i will be taking these skill with me throughout my journey. - Freddie Finesse
 //     Thank you for all your support through out the academy, you truly are a great instructor and very much appreciated keep being great 💪🏾🐐‼️ -Jakari
