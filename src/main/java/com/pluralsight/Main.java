@@ -14,4 +14,6 @@ public class Main {
     // System.out.println("THANK YOU FOR BEING THE BEST INSTRUCTOR!!! 🐐🐐🐐 -Jacob")
     // Thank you for everything, Remgoku.   -Marq Alejandro
     // 🎉🎉Thank you for sharing your wisdom with us. Your the best🎉🎉- Cricelia
+    //Thanks for all your support, Remsey!! We truly appreciate you and will miss you! But see you on LinkedIn hehe 😆🥺 - Claudia!
+
 }
