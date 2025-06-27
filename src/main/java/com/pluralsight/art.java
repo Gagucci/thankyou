@@ -151,6 +151,8 @@ public class art {
                 Thank you for all your support through out the academy, you truly are a great instructor and very much appreciated keep being great 💪🏾🐐‼️ -Jakari\s
                 
                 It has been a pleasure and a privilege to learn from you Remsey. You have my utmost respect and gratitude. -Jakeyl
+
+                Thank you so much for making me love software development more, your advices and shared wisdom will always follow me along my journey in AppDev - Hayat Azimov!
                 """ +
                 "\u001B[0m"; // Reset color
         System.out.println(message);
