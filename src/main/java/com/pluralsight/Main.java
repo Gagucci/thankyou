@@ -1,11 +1,16 @@
 package com.pluralsight;
 
+import static com.pluralsight.art.printArt5;
+import static com.pluralsight.art.printPersonalMessage;
+
 public class Main {
     public static void main(String[] args) throws InterruptedException {
         art.printArt2();
         art.printArt();
         art.printArt3();
         art.printArt4();
+        printArt5();
+        printPersonalMessage();
     }
 
     // DONT FORGET ABOUT US THANK YOUUUUUU, if I become a millionare in the future it was thanks to you! - Kevin Gagante

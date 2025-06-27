@@ -65,6 +65,23 @@ public class art {
                                         ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
             """ + "\u001B[0m";
 
+    public static String art5 = "\u001B[93m" + // Bright yellow (gold-like)
+            """
+             ____                 _       _   _     _        _ _ 
+            |  _ \\  __ _ _ __ ___| |__   | | | | __| |   ___| | |
+            | | | |/ _` | '__/ __| '_ \\  | |_| |/ _` |  / __| | |
+            | |_| | (_| | | | (__| | | | |  _  | (_| | | (__| | |
+            |____/ \\__,_|_|  \\___|_| |_| |_| |_|\\__,_|  \\___|_|_|
+                                                                
+                  ____            _        _                    
+                 |  _ \\  ___  ___| |_ __ _| |__   ___ _ __ ___  
+                 | | | |/ _ \\/ __| __/ _` | '_ \\ / _ \\ '__/ _ \\ 
+                 | |_| |  __/\\__ \\ || (_| | |_) |  __/ | | (_) |
+                 |____/ \\___||___/\\__\\__,_|_.__/ \\___|_|  \\___/ 
+                                                                
+            """ + "\u001B[0m";
+
+
     public static void printArt() throws InterruptedException {
         for (char c : art.toCharArray()) {
             System.out.print(c);
@@ -92,5 +109,23 @@ public class art {
             Thread.sleep(1);
         }
     }
+
+    public static void printArt5() throws InterruptedException {
+        for (char c : art5.toCharArray()) {
+            System.out.print(c);
+            Thread.sleep(1);
+        }
+    }
+
+    public static void printPersonalMessage() {
+        String message = "\u001B[36m" + // Cyan text
+                "\nThank you Mr. Remesey for being a lighthouse of clarity in our coding journey! 🧠💡\n" +
+                "You didn't just teach us to code — you taught us to think. 🚀\n" +
+                "Best \n" +
+                "Amine\n" +
+                "\u001B[0m"; // Reset color
+        System.out.println(message);
+    }
+
 
 }
